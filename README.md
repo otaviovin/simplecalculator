@@ -18,5 +18,5 @@ This project is a **simple calculator application** built using Python's **Tkint
 
 1. **Clone the Repository** (or save the script file):
    ```bash
-   git clone https://github.com/your-repo/calculator-app.git
-   cd calculator-app
+   git clone https://github.com/otaviovin/simplecalculator.git
+   cd simplecalculator
